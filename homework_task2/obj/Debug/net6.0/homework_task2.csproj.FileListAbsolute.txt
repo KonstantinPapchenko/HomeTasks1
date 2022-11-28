@@ -1,0 +1,15 @@
+G:\Geekbrains\Seminar_C#\homework_task2\obj\Debug\net6.0\homework_task2.csproj.AssemblyReference.cache
+G:\Geekbrains\Seminar_C#\homework_task2\obj\Debug\net6.0\homework_task2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Geekbrains\Seminar_C#\homework_task2\obj\Debug\net6.0\homework_task2.AssemblyInfoInputs.cache
+G:\Geekbrains\Seminar_C#\homework_task2\obj\Debug\net6.0\homework_task2.AssemblyInfo.cs
+G:\Geekbrains\Seminar_C#\homework_task2\obj\Debug\net6.0\homework_task2.csproj.CoreCompileInputs.cache
+G:\Geekbrains\Seminar_C#\homework_task2\bin\Debug\net6.0\homework_task2.exe
+G:\Geekbrains\Seminar_C#\homework_task2\bin\Debug\net6.0\homework_task2.deps.json
+G:\Geekbrains\Seminar_C#\homework_task2\bin\Debug\net6.0\homework_task2.runtimeconfig.json
+G:\Geekbrains\Seminar_C#\homework_task2\bin\Debug\net6.0\homework_task2.dll
+G:\Geekbrains\Seminar_C#\homework_task2\bin\Debug\net6.0\homework_task2.pdb
+G:\Geekbrains\Seminar_C#\homework_task2\obj\Debug\net6.0\homework_task2.dll
+G:\Geekbrains\Seminar_C#\homework_task2\obj\Debug\net6.0\refint\homework_task2.dll
+G:\Geekbrains\Seminar_C#\homework_task2\obj\Debug\net6.0\homework_task2.pdb
+G:\Geekbrains\Seminar_C#\homework_task2\obj\Debug\net6.0\homework_task2.genruntimeconfig.cache
+G:\Geekbrains\Seminar_C#\homework_task2\obj\Debug\net6.0\ref\homework_task2.dll
